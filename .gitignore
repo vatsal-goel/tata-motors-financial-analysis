@@ -1,0 +1,21 @@
+# Raw source files - kept locally only
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Power BI temporary files
+*.pbitmp
+
+# System files
+.DS_Store
+Thumbs.db
