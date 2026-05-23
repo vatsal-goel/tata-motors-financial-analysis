@@ -1,0 +1,16 @@
+ratio,formula
+net_profit_margin_pct,profit_after_tax / revenue_from_operations * 100
+pbt_margin_pct,profit_before_tax / revenue_from_operations * 100
+expense_to_income_ratio_pct,total_expenses / total_income * 100
+return_on_assets_pct,profit_after_tax / average_total_assets * 100
+return_on_equity_pct,profit_after_tax / average_total_equity * 100
+asset_turnover_ratio,revenue_from_operations / average_total_assets
+current_ratio,current_assets / current_liabilities
+quick_ratio,(current_assets - inventories) / current_liabilities
+cash_ratio,(cash_and_cash_equivalents + current_investments) / current_liabilities
+working_capital_cr,current_assets - current_liabilities
+debt_to_equity_ratio,total_borrowings / total_equity
+debt_ratio,total_liabilities / total_assets
+operating_cash_flow_margin_pct,net_cash_from_operating_activities / revenue_from_operations * 100
+free_cash_flow_margin_pct,auto_free_cash_flow / revenue_from_operations * 100
+capex_to_revenue_pct,absolute_capex_payments / revenue_from_operations * 100
