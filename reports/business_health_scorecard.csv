@@ -1,0 +1,6 @@
+financial_year,net_profit_margin_pct,return_on_assets_pct,return_on_equity_pct,current_ratio,debt_to_equity_ratio,operating_cash_flow_margin_pct,free_cash_flow_margin_pct,profitability_score,asset_efficiency_score,shareholder_return_score,liquidity_score,debt_score,cashflow_score,fcf_score,business_health_score,max_possible_score,business_health_score_pct
+FY2021,-5.36,-3.9,-23.57,0.93,2.02,11.61,2.13,0,0,0,1,0,2,1,4,14,28.57
+FY2022,-4.06,-3.36,-21.41,0.98,2.86,5.13,-3.32,0,0,0,1,0,1,0,2,14,14.29
+FY2023,0.78,0.81,5.3,0.98,2.39,10.23,2.27,0,0,1,1,0,2,1,5,14,35.71
+FY2024,7.26,9.0,43.66,0.97,1.06,15.51,6.15,2,2,2,1,1,2,2,12,14,85.71
+FY2025,6.4,7.51,26.08,0.96,0.51,14.35,5.08,2,2,2,1,2,2,2,13,14,92.86
