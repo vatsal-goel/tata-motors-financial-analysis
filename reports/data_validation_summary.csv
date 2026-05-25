@@ -1,0 +1,8 @@
+dataset,check_name,status,details
+income_statement,expected_financial_years,PASS,missing=[]; extra=[]; rows=5
+balance_sheet,expected_financial_years,PASS,missing=[]; extra=[]; rows=5
+cash_flow_statement,expected_financial_years,PASS,missing=[]; extra=[]; rows=5
+financial_ratios,expected_financial_years,PASS,missing=[]; extra=[]; rows=5
+balance_sheet,total_assets_equals_total_equity_and_liabilities,PASS,maximum absolute difference = 0.0
+income_statement,positive_revenue_all_years,PASS,minimum revenue = 249794.75
+balance_sheet,positive_total_assets_all_years,PASS,minimum total assets = 330619.93
